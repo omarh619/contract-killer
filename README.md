@@ -10,7 +10,7 @@
 
 
 # The contract
-#### Between [company name]
+#### Between Omar Hernandez
 #### And [customer name]
 
 ## Summary:
@@ -111,7 +111,7 @@ This contract stays in place and need not be renewed. If for some reason one par
 Although the language is simple, the intentions are serious and this contract is a legally binding document.
 
 ## The dotted line
-Signed by [company name]
+Signed by Omar Hernandez
 ……………………………………………………
 
 Signed by [customer name]
